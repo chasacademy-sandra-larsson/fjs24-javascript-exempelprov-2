@@ -1,3 +1,2 @@
-# exempelprov-avancerad-js
-# fjs24-javascript-exempelprov-2
-# fjs24-javascript-exempelprov-2
+Totalpoäng: 30 poäng varav 21 poäng för Godkänt och 27 poäng för Väl Godkänt. 
+
