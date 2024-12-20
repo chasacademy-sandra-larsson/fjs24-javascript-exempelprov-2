@@ -29,5 +29,5 @@ const fullName = ["John Doe", "Jane Doe", "John Smith", "Jane Smith"];
 
 
 // Test
-// console.log(smallerThan50); // [200, 54, 33, 4]
+// console.log(smallerThan50); // [33, 4]
 // console.log(lastNameFirst); // ["Doe, John", "Doe, Jane", "Smith, John", "Smith, Jane"]
